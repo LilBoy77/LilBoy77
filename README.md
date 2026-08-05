@@ -6,7 +6,7 @@
 <h1 align="center">Ulil Arsyad Ramadhan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Junior+Backend+%2F+Fullstack+Developer;JavaScript+%7C+Node.js+%7C+React.js;Bandung%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Junior+Frontend+%2F+Fullstack+Developer;JavaScript+%7C+Node.js+%7C+React.js;Bandung%2C+Indonesia" alt="Typing SVG" />
 </p>
 
 <p align="center">
